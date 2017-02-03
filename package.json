@@ -6,8 +6,7 @@
   "dependencies": {
     "cli-spinner": "^0.2.5",
     "colors": "^1.1.2",
-    "commander": "^2.9.0",
-    "console.table": "^0.8.0"
+    "commander": "^2.9.0"
   },
   "devDependencies": {},
   "scripts": {
